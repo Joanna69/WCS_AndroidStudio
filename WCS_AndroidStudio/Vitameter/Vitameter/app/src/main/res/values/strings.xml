@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Vitameter</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="graph3_fragezeichen_text">Graph3 Fragezeichen text</string>
+    <string name="turn_on">turn on</string>
+    <string name="discoverable">discoverable</string>
+    <string name="turn_off">turn off</string>
+    <string name="tab3_graph3_text">Tab3 Graph3 text</string>
+    <string name="how_do_you_feel_today">How do you feel today?</string>
+    <string name="todo_1">TODO</string>
+    <string name="happiness_score">Happiness Score: </string>
+    <string name="progress">progress</string>
+
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="uvi">uvi</string>
+    <string name="_10_1">10</string>
+    <string name="_10_2">10</string>
+    <string name="value_1">value</string>
+    <string name="send_1">send</string>
+    <string name="done_1">done</string>
+    <string name="steps">steps</string>
+    <string name="value_2">value</string>
+    <string name="send_2">send</string>
+    <string name="done_2">done</string>
+    <string name="co2">co2</string>
+    <string name="_10">10</string>
+    <string name="value">value</string>
+    <string name="send">send</string>
+    <string name="done_3">done</string>
+    <string name="done" />
+    <string name="set_voc" />
+    <string name="voc">voc</string>
+    <string name="temp">temp</string>
+    <string name="uvi_duration">uvi duration</string>
+    <string name="sunscreen">sunscreen</string>
+    <string name="uvi_dur" />
+    <string name="amount_of_steps">Amount of Steps:</string>
+    <string name="todo_2">TODO</string>
+    <string name="todo_3">TODO</string>
+    <string name="todo_4">TODO</string>
+    <string name="get_all_data">get all Data</string>
+    <string name="todo5">TODO</string>
+    <string name="init_serial_bt">init Serial BT</string>
+    <string name="uvi_dur1">uvi dur</string>
+    <string name="_1500_2000">1500/2000</string>
+    <string name="todo">TODO</string>
+    <string name="date" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab" type="id" />
+    <item name="section_label" type="id" />
+    <item name="sendlabel6" type="id" />
+    <item name="sendcontent6" type="id" />
+    <item name="sendstatus6" type="id" />
+    <item name="sendbuton6" type="id" />
+</resources>
